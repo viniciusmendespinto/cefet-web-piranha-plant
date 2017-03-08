@@ -1,0 +1,31 @@
+        body{ 
+
+        	background-image: url("imagens/fundo.png"); 
+            margin-top: 35px;
+            margin-right: 35px;
+            margin-bottom: 35px;
+            margin-left: 35px; 
+
+   
+        }
+        h1{
+        	color : limegreen;
+        	font-family: Times; 
+        	font-size : 28px;
+        }
+        p{
+        	font-family: Arial;
+            text-align: justify;
+        }
+        td, th {
+            border: 2px solid silver;
+            text-align: center;
+        }
+        table {
+            width: 600px;
+            position: top;
+            margin-left: 170px;
+            margin-right: 170px;
+            border-collapse: collapse;
+
+        }

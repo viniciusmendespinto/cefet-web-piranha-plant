@@ -1,0 +1,49 @@
+        body{ 
+
+        	background-image: url("imagens/fundo.png"); 
+            margin-top: 35px;
+            margin-right: 35px;
+            margin-bottom: 35px;
+            margin-left: 35px; 
+
+   
+        }
+        h1{
+        	color : limegreen;
+        	font-family: Times; 
+        	font-size : 28px;
+        }
+        h2{ 
+            color : limegreen;
+            font-family: Times; 
+            font-size : 24px;
+        }
+        h3{
+            color : limegreen;
+            font-family: Times; 
+            font-size : 24px;
+        }
+        h4{
+            color : limegreen;
+            font-family: Times; 
+            font-size : 24px;
+        }
+        p{
+        	font-family: Arial;
+            text-align: justify;
+        }
+        .armadilha-jaula{
+            height: 280px;
+            width: 450px;
+            border: limegreen Solid 4px;
+        }
+        .armadilha-jaula-natal{
+            height: 280px;
+            width: 450px;
+            border: limegreen Solid 4px;
+        }
+        .armadilha-succao{
+            height: 280px;
+            width: 300px;
+            border: limegreen Solid 4px;
+        }
